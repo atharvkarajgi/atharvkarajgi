@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Atharv a Budding Developer Advocate and Software Engineer with a strong Interest in CloudNative technologies.
+I'm Atharv a Budding Software Engineer with a strong Interest in CloudNative technologies.
 I've worked as a Developer Relations Intern at DoK. Where I took a deep-dive into articulating complex technical
 concepts to both technical and non-technical audiences along with fostering community engagement.
 
