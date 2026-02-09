@@ -2,7 +2,7 @@
 
 I work at the intersection of data, systems, and decision-making.
 
-Most recently, I worked as a Business Intelligence Analyst at XYA, where I built product analytics workflows, designed dashboards, and translated complex data into insights for GTM and product teams.
+Most recently, I worked as a Business Intelligence Analyst at Progress, where I built product analytics workflows, designed dashboards, and translated complex data into insights for GTM and product teams.
 
 Earlier in my career, I worked in developer-facing roles within the cloud-native ecosystem (Kubernetes, APIs, DevTools), which shaped my interest in how modern SaaS products are built, monitored, and scaled.
 
